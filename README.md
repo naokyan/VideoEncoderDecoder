@@ -17,10 +17,8 @@
 # 入力コマンド
 MyEncoder.exe input_video.rgb n1 n2
 MyDecoder.exe input_video.cmp input_audio.wav
+(Release版のZIPファイルの中に input file が含まれています。)
 
 # リンク
 Demoを見る
 https://youtu.be/JuKcR8gyRwE
-
-コード(Release版のZIPファイルの中に input file が含まれています。)
-https://github.com/naokyan/VideoEncoderDecoder
